@@ -1,6 +1,6 @@
 # KMeans
 
-KMeans算法实现Image Segmentation
+基于java使用KMeans算法实现Image rgb Segmentation
 
 src下参考的KMeans的一种实现方法
 
